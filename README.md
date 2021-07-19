@@ -10,7 +10,7 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 <h2 align="center">GitHub Status:</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=radical" alt="LeonardoDantas"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple" alt="LeonardoDantas"/> 
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&langs_count=8_icons=true&theme=radical)](https://github.com/LeoDantasSS/github-readme-stats) -->
 
