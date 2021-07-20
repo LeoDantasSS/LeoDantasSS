@@ -16,5 +16,5 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-dantas-1648381b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leonardo Dantas" height="25" width="25" /></a>
+  <a href="www.linkedin.com/in/leonardo-dantasSS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leonardo Dantas" height="25" width="25" /></a>
 </p>
