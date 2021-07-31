@@ -15,6 +15,6 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&langs_count=8_icons=true&theme=radical)](https://github.com/LeoDantasSS/github-readme-stats) -->
 
 
-<p align="center">
+<p align="center" target="_blank">
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target='_blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leonardo Dantas" target='_blank' height="25" width="25" /></a>
 </p>
