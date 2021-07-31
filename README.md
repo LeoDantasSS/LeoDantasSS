@@ -7,14 +7,22 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 ### *In update!!!*
 
-<h2 align="center">GitHub Status:</h2>
+<div align="center">
+  <h2>GitHub Status:</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple" alt="LeonardoDantas"/> 
-</p>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple" alt="LeonardoDantas"/> 
+  </p>
+
+  <a target="_blank" href="https://www.linkedin.com/in/leonardo-dantasss/">
+    <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  </div>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&langs_count=8_icons=true&theme=radical)](https://github.com/LeoDantasSS/github-readme-stats) -->
 
 
-<p align="center" target="_blank">
+<!-- <p align="center" target="_blank">
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target='_blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leonardo Dantas" target='_blank' height="25" width="25" /></a>
-</p>
+</p> -->
+
