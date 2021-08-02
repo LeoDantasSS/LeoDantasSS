@@ -14,8 +14,8 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 [![LeoDantasSS](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
-  <a target="somethingUnique" href="https://www.linkedin.com/in/leonardo-dantasss/">
-    <img target="somethingUnique" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  <link target="_blank" href="https://www.linkedin.com/in/leonardo-dantasss/">
+    <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </link>
   </div>
 
