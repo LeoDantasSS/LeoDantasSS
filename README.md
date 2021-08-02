@@ -9,20 +9,13 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 <div align="center">
   <h2>GitHub Status:</h2>
+  
+  [![LeoDantasSS](https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple" alt="LeonardoDantas"/> 
-  </p>
-
-  <a target="_blank" href="https://www.linkedin.com/in/leonardo-dantasss/">
-    <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[![LeoDantasSS](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a target="somethingUnique" href="https://www.linkedin.com/in/leonardo-dantasss/">
+    <img target="somethingUnique" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   </div>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&langs_count=8_icons=true&theme=radical)](https://github.com/LeoDantasSS/github-readme-stats) -->
-
-
-<!-- <p align="center" target="_blank">
-  <a href="https://www.linkedin.com/in/leonardo-dantasss/" target='_blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leonardo Dantas" target='_blank' height="25" width="25" /></a>
-</p> -->
 
