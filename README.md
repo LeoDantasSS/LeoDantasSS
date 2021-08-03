@@ -19,4 +19,7 @@ I'm currently starting my studies in programming daily, I intend to move to the 
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target="_blank">
     <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  <a href="https://contacts.google.com/person/c6581155358260619183?hl=pt_BR" target="_blank">
+    <img alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/60/60543.png" />
+  </a>
   </div>
