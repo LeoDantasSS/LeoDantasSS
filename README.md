@@ -16,7 +16,7 @@ I'm currently starting my studies in programming daily, I intend to move to the 
   </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-dantasss/">
+  <a href="https://www.linkedin.com/in/leonardo-dantasss/" target="_blank">
     <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   </div>
