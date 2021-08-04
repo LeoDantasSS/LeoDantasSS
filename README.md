@@ -7,19 +7,17 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 ### *In update!!!*
 
-<div align="center">
-  <h2>GitHub Status:</h2>
-  
-  [![LeoDantasSS](https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![LeoDantasSS](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+<div>
+  <a href="https://github.com/LeoDantasSS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target="_blank">
-    <img alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="LinkdeIN" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   <a href="https://contacts.google.com/person/c6581155358260619183?hl=pt_BR" target="_blank">
-    <img alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/60/60543.png" />
+    <img alt="Gmail" width="25px" src="https://www.trt13.jus.br/oraculo/sites/default/files/imagens/artigo/print_603c0c8cbac74.png" />
   </a>
   </div>
