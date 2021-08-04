@@ -9,8 +9,8 @@ I'm currently starting my studies in programming daily, I intend to move to the 
 
 <div>
   <a href="https://github.com/LeoDantasSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <div align="center">
