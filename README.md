@@ -18,7 +18,7 @@ I'm currently starting my studies in programming daily, i intend to move to the 
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target="_blank">
     <img alt="LinkdeIN" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
-  <a href="https://contacts.google.com/person/c6581155358260619183?hl=pt_BR" target="_blank">
+  <a href="mailto:leonardoo.dantas14@gmail.com" target="_blank">
     <img alt="Gmail" width="25px" src="https://www.trt13.jus.br/oraculo/sites/default/files/imagens/artigo/print_603c0c8cbac74.png" />
   </a>
   </div>
