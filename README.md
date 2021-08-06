@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Dantas</h1>
 
-I'm currently starting my studies in programming daily, i intend to move to the Beck-End area.
+I'm currently starting my studies in programming daily, i intend to move to the Full-Stack area.
 
 - :computer: I’m currently learning MySQL, CSS, HTML, JavaScript;
 - 🤝 I’m looking to collaborate for deep learning projects. 
