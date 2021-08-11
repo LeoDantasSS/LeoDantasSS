@@ -22,3 +22,5 @@ I'm currently starting my studies in programming daily, i intend to move to the 
     <img alt="Gmail" width="25px" src="https://www.trt13.jus.br/oraculo/sites/default/files/imagens/artigo/print_603c0c8cbac74.png" />
   </a>
   </div>
+
+  
