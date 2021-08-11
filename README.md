@@ -11,6 +11,7 @@ I'm currently starting my studies in programming daily, i intend to move to the 
   <h2> GitHub Status </h2>
   <a href="https://github.com/LeoDantasSS">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoDantasSS&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDantasSS&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <div align="center">
