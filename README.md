@@ -1,4 +1,4 @@
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Dantas</h1>
+<h1 align="center">Hello World, I'm Leonardo Dantas</h1>
 
 I'm currently starting my studies in programming daily, i intend to move to the Beck-end area.
 
