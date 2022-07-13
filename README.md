@@ -2,7 +2,7 @@
 
 I'm currently starting my studies in programming daily, i intend to move to the Beck-end area.
 
-- :computer: I’m currently learning MySQL, CSS, HTML, JavaScript;
+- :computer: I’m currently learning MySQL, CSS, HTML, JavaScript and PHP;
 - 🤝 I’m looking to collaborate for deep learning projects. 
 
 <h3> *In update!!!* </h3>
