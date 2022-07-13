@@ -16,10 +16,10 @@ I'm currently starting my studies in programming daily, i intend to move to the 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-dantasss/" target="_blank">
-    <img alt="LinkdeIN" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+    <img alt="LinkdeIN" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="mailto:leonardoo.dantas14@gmail.com" target="_blank">
-    <img alt="Gmail" width="25px" src="https://www.trt13.jus.br/oraculo/sites/default/files/imagens/artigo/print_603c0c8cbac74.png" />
+    <img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   </div>
 
