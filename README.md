@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Leonardo Dantas</h1>
 
-I'm currently starting my studies in programming daily, i intend to move to the Beck-end area.
+Being a developer is a journey where the next stop is the solution to a problem.
 
 - :computer: I’m currently learning MySQL, CSS, HTML, JavaScript and PHP;
 - 🤝 I’m looking to collaborate for deep learning projects. 
